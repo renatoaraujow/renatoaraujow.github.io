@@ -76,7 +76,7 @@ $(function() {
         items: 1,
         loop:true,
         autoplay:true,
-        smartSpeed:6000
+        smartSpeed:500
     });
 
 
