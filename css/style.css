@@ -308,7 +308,7 @@ p {
   position: relative;
 }
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 767px) {
   .hero .hero-img {
     padding: 0 0 0 0;
     position: relative;
